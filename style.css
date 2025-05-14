@@ -1,0 +1,22 @@
+*{
+    padding: 0 em;
+    margin: 0 em;
+    box-sizing: border-box;
+}
+.text{
+    text-align: center;
+    width: 32rem;
+    margin-left: 15rem;
+    font-size: 2rem;
+}
+.firt-paragraph{
+    display: flex;
+    align-items: center;
+    gap: 4rem;
+    
+}
+.one-img{
+    width: 10rem;
+    height: 10rem;
+    margin-left: 4rem;
+}
